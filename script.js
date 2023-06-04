@@ -145,7 +145,7 @@ function checkTranslationsHandler(currentCard) {
             });
             if (cardsFaded) {
                 setTimeout(() => {
-                    alert('Проверка знаний успешно завершена!');
+                    alert('Проверка знаний успешно завершена');
                 }, 1000);
             }
         } else {
